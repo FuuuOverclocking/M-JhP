@@ -1,6 +1,7 @@
 {
-  "name": "mjhp",
-  "short_name": "mjhp",
+  "version": "0.1.0",
+  "name": "Matchstick Man: Jobhunting Psychology",
+  "short_name": "M: JhP",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
@@ -13,6 +14,7 @@
       "type": "image/png"
     }
   ],
+  "manifest_version": 2,
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#1d1d1d",
